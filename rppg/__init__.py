@@ -12,7 +12,7 @@ Modules:
 """
 
 __version__ = "1.0.0"
-__author__ = "Your Name"
+__author__ = "Aloisius Edwin"
 __description__ = "Real-time Heart Rate Detection using rPPG with POS Method"
 
 from .config import Config, LandmarkIndices
